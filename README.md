@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/-sakthi.updone.in-000?style=for-the-badge)](https://sakthi.updone.in)
 [![Email](https://img.shields.io/badge/-sakthii3011@gmail.com-D14836?style=for-the-badge)](mailto:sakthii3011@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-8925490989-25D366?style=for-the-badge)](tel:+918925490989)
-[![GitHub](https://img.shields.io/badge/-sakthivel3011-181717?style=for-the-badge)](https://github.com/sakthivel3011)
+
 
 </div>
 
