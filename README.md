@@ -45,7 +45,7 @@
 
 ##  Skills
 
-**Frontend**
+Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
@@ -56,7 +56,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square)
 
-**Backend**
+Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square)
@@ -65,7 +65,7 @@
 ![Firebase Functions](https://img.shields.io/badge/Firebase_Functions-FFCA28?style=flat-square&logoColor=black)
 ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square)
 
-** Database & Auth**
+Database & Auth
 
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logoColor=black)
@@ -73,21 +73,18 @@
 ![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logoColor=black)
 ![Google OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square)
 
-** Cloud & Hosting**
+Cloud & Hosting
 
 ![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat-square&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square)
 
-** Automation & AI**
+Automation 
 
 ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-3776AB?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data_Science-102E6A?style=flat-square)
 
-** Tools**
+Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square)
