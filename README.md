@@ -27,8 +27,6 @@
 
 ---
 
-
-
 ## Skills
 
 <div align="center">
@@ -50,15 +48,6 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakthivel3011&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakthivel3011&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakthivel3011&theme=tokyonight&hide_border=true" />
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthivel3011&theme=tokyo-night&hide_border=true" />
 
