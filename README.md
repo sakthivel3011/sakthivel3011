@@ -43,35 +43,5 @@
 
 </div>
 
----
 
-## GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakthivel3011&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/SAKTHI.UPDONE.IN-000000?style=for-the-badge)](https://sakthi.updone.in)
-[![Email](https://img.shields.io/badge/SAKTHII3011@GMAIL.COM-D14836?style=for-the-badge)](mailto:sakthii3011@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Building products that matter — one commit at a time."*
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sakthivel3011&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/sakthivel3011)
-
-</div>
